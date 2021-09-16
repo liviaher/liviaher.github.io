@@ -11,3 +11,7 @@ a:visited{
 a:hover{
     text-decoration: underline;
 }
+
+.img:hover{
+    filter: brightness(50%);
+}
